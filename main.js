@@ -39,3 +39,6 @@ function respuesta(error, resultados) {
             });
     }
 }
+function borrar(){
+    background("white")
+}
